@@ -2,8 +2,9 @@
 /*
 
 ---------------------------------------------------------------------------------------------------
--- Author: Sudipta Biswas
--- Description: To split a string into multiple columns, Delimiter could be any regular expression
+-- Author	: Sudipta Biswas
+-- Description	: To split a string into multiple columns, Delimiter could be any regular expression
+-- Database	: Oracle
 ---------------------------------------------------------------------------------------------------
 
 
